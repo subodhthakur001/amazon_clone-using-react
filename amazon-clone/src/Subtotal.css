@@ -1,0 +1,12 @@
+.subtotal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: gray;
+}
+.button{
+    background-color: gold;
+
+    width: 45%;
+}
+    

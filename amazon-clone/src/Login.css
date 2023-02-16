@@ -1,0 +1,51 @@
+.login_logo{
+    object-fit: contain;
+    width: 25vh;
+    background-color: white;
+    border-radius: 27px;
+    margin-top: 19px;
+
+}
+.Login_container{
+    width: 300px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    
+
+}
+.Login_container form{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.Login_container input{
+    height: 20px;
+    width: 99%;
+    border:solid -3px
+}
+.Login_container button{
+  background-color: gold;
+  margin-top: 5px;
+}
+.Login_container h5{
+    font-size: medium;
+    margin-left: -82%;
+    margin-bottom: 1%;
+}
+.Login_container p{
+    text-align: center;
+}
+.Login_password{
+    margin-left: -75%;
+}
+.loginpage{
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

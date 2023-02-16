@@ -1,0 +1,19 @@
+.checkoutproduct{
+    display: flex;
+
+}
+.checkoutbody{
+    width: 30%;
+}
+.checkoutproductimage img{
+    object-fit: contain;
+ width: 35%;
+}
+.checkoutbodyrating{
+    display: flex;
+    margin-left: 35%;
+}
+.checkoutbodybutton{
+    background-color: gold;
+    color: black;
+}

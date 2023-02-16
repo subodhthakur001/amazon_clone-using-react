@@ -1,0 +1,19 @@
+.payment_section{
+    padding-left: 2%;
+    display: flex;
+}
+.payment_address{
+    flex: 2%;
+}
+.payment_Proceed{
+    flex: 0.8%;
+    
+}
+.payment_form{
+    width: 40%;
+    border: solid ;
+    padding:  2%;
+}
+.Payment{
+ background-color: white;
+}
